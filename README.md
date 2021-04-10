@@ -6,8 +6,9 @@
 <a href="https://www.facebook.com/sakibhasan.plabon.79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apoorvtyagi" height="20" width="20" /></a>
 <a href="https://www.youtube.com/channel/UC5oTOM4P7JKW7Abj70dcw-A"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" /></a>
 </p>
-
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<p align="center">
+  <img width="460" height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+</p>
 
 ### 🤵 About Me:
 
