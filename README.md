@@ -12,7 +12,7 @@
 
 ### 🤵 About Me:
 
-- 🏦 I'm currently working for Quixx projects as a front-end developer
+- 🏦 I'm currently doing nothing
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Robotics, Iot, Gamedev, Appdev, WebDev
 - 🌱 I’m currently learning to write firmware
